@@ -1,124 +1,42 @@
-{
-	'personas': [
-		{
-			"name": "Deirdre Kim",
-			"email": "pharetra@yahoo.com"
-		},
-		{
-			"name": "Isaac Rhodes",
-			"email": "massa@yahoo.couk"
-		},
-		{
-			"name": "Grace Harrington",
-			"email": "porttitor.interdum.sed@icloud.net"
-		},
-		{
-			"name": "Avram Hopkins",
-			"email": "gravida.nunc.sed@icloud.org"
-		},
-		{
-			"name": "Urielle Curry",
-			"email": "facilisi.sed@google.com"
-		},
-		{
-			"name": "Stephanie Harding",
-			"email": "senectus.et.netus@protonmail.couk"
-		},
-		{
-			"name": "Noah Witt",
-			"email": "scelerisque.neque.sed@yahoo.couk"
-		},
-		{
-			"name": "Iona Roman",
-			"email": "semper.auctor@protonmail.ca"
-		},
-		{
-			"name": "Athena Brown",
-			"email": "pellentesque.ultricies@icloud.couk"
-		},
-		{
-			"name": "Omar Sharp",
-			"email": "in@yahoo.com"
-		},
-		{
-			"name": "Ursa Sharp",
-			"email": "cras.pellentesque@outlook.ca"
-		},
-		{
-			"name": "Regan Mcneil",
-			"email": "nulla.dignissim@google.org"
-		},
-		{
-			"name": "Summer Dudley",
-			"email": "cursus.et.magna@outlook.ca"
-		},
-		{
-			"name": "Raphael O'connor",
-			"email": "aliquet@hotmail.ca"
-		},
-		{
-			"name": "Steel Dunn",
-			"email": "et@outlook.com"
-		},
-		{
-			"name": "Hunter Johns",
-			"email": "nulla@protonmail.net"
-		},
-		{
-			"name": "Alvin Page",
-			"email": "et.risus@protonmail.com"
-		},
-		{
-			"name": "Brady Cervantes",
-			"email": "nisi.mauris.nulla@outlook.ca"
-		},
-		{
-			"name": "McKenzie Cruz",
-			"email": "in.nec@yahoo.ca"
-		},
-		{
-			"name": "Dustin Turner",
-			"email": "aliquet@protonmail.edu"
-		},
-		{
-			"name": "Pandora Haney",
-			"email": "nibh@yahoo.com"
-		},
-		{
-			"name": "Cheyenne Marshall",
-			"email": "eget@protonmail.com"
-		},
-		{
-			"name": "Brett Rosales",
-			"email": "molestie.tortor.nibh@aol.org"
-		},
-		{
-			"name": "Hedda Vinson",
-			"email": "blandit.at@google.com"
-		},
-		{
-			"name": "Karly Alvarado",
-			"email": "dictum.cursus@icloud.edu"
-		},
-		{
-			"name": "Brenda Wise",
-			"email": "vitae.velit@icloud.com"
-		},
-		{
-			"name": "Amber Underwood",
-			"email": "odio.sagittis@outlook.org"
-		},
-		{
-			"name": "Carolyn Hayden",
-			"email": "a.auctor@aol.org"
-		},
-		{
-			"name": "Alexis French",
-			"email": "nunc@aol.ca"
-		},
-		{
-			"name": "Marny Bright",
-			"email": "bibendum@aol.couk"
-		}
-	]
-}
+[
+	{
+		"name": "Warren Washington",
+		"email": "nullam@protonmail.couk"
+	},
+	{
+		"name": "James Chaney",
+		"email": "cras@protonmail.org"
+	},
+	{
+		"name": "Jordan Aguirre",
+		"email": "lectus.justo@yahoo.com"
+	},
+	{
+		"name": "Herman Dillard",
+		"email": "ultrices.sit@icloud.org"
+	},
+	{
+		"name": "Hayley Whitehead",
+		"email": "eros.nec.tellus@aol.net"
+	},
+	{
+		"name": "Murphy Davidson",
+		"email": "ut.tincidunt@google.net"
+	},
+	{
+		"name": "Suki Leon",
+		"email": "nunc.mauris.morbi@hotmail.com"
+	},
+	{
+		"name": "Marshall Hayes",
+		"email": "nec.enim@hotmail.couk"
+	},
+	{
+		"name": "Molly Flowers",
+		"email": "lorem.semper@icloud.couk"
+	},
+	{
+		"name": "Zeus Barker",
+		"email": "orci.donec@google.com"
+	}
+]
